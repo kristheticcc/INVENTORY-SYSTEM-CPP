@@ -1,6 +1,6 @@
 # INVENTORY SYSTEM (C++)
 
-This project is a simple inventory management system written in C++. It allows users to add, delete, and display items in an inventory list. The system uses C++ features like classes, objects, file handling, and Standard Template Library (STL) containers and iterators.
+This project is an inventory management system written in C++. It allows users to add, delete, and display items in an inventory list. The system uses C++ features like classes, objects, file handling, and Standard Template Library (STL) containers and iterators.
 
 ## Features
 
